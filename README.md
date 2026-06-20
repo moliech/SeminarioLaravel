@@ -75,3 +75,12 @@ Arrays: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/array.php
 ### 7. Funciones
 Funciones: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/funciones.php
 ![localhost](src/Sintaxis/funciones.png)
+
+### 8. Formularios GET y POST
+Abrir el navegador y acceder a http://localhost:8090/Sintaxis/formulario.php
+
+#### GET
+![localhost](src/Sintaxis/get.png)
+
+#### POST
+![localhost](src/Sintaxis/post.png)
