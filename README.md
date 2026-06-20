@@ -20,7 +20,7 @@ Con solo unos comandos se tendrá un servidor web (PHP 8.2), una base de datos (
 Abrir la terminal (WSL2 / PowerShell / Bash) y ejecuta:
 ```bash
 git clone https://github.com/jamescanos/SeminarioLaravel.git
-cd entorno-seminario-laravel
+cd SeminarioLaravel
 ```
 
 ### 2. Estructura Inicial
@@ -34,6 +34,8 @@ Ejecutar el siguiente comando en la raíz del proyecto (donde está el docker-co
 ```bash
 docker-compose up -d
 ```
+![localhost](capturas/compose.png)
+
 
 El flag -d significa "detached" (corre en segundo plano). Si se desean ver los logs en vivo, se quita el -d.
 
@@ -42,6 +44,7 @@ PHP/Apache: Abrir el navegador y acceder a http://localhost:8080.
 ```
 Se debe ver página de información de PHP (phpinfo()).
 ```
+![localhost](capturas/php.png)
 
 phpMyAdmin: Acceder a http://localhost:8081. 
 ```
@@ -56,3 +59,5 @@ Base de datos: conectarse desde phpMyAdmin o desde su código PHP usando:
    Contraseña: root_password (o dev_password)
    Base de datos: seminario_db
 ```
+
+![localhost](capturas/myadmin.png)
