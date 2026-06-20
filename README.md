@@ -63,11 +63,15 @@ Base de datos: conectarse desde phpMyAdmin o desde su código PHP usando:
 ![localhost](capturas/myadmin.png)
 
 ### 5. Sintaxis
-Sintaxis: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/
+Sintaxis: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/Sintaxis.php
 
 ![localhost](src/Sintaxis/sintaxis.png)
 
 ### 6. Arrays
-Arrays: Abrir el navegador y acceder a http://localhost:8090/Arrays/
+Arrays: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/array.php
 
-![localhost](src/Arrays/array.png)
+![localhost](src/Sintaxis/array.php)
+
+### 7. Funciones
+Funciones: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/funciones.php
+![localhost](src/Sintaxis/funciones.png)

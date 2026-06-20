@@ -19,7 +19,9 @@ foreach ($producto as $nombre => $precio) {
     echo "<li>$nombre: $$precio</li>";
     $total += $precio;
 }
+
 $totalConIVA = $total * 1.19;
+
 echo "</ul>";
 echo "<p><strong>Total sin IVA: $$total</strong></p>";
 echo "<p><strong>Total con IVA: $$totalConIVA</strong></p>";
