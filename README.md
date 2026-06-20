@@ -40,7 +40,7 @@ docker-compose up -d
 El flag -d significa "detached" (corre en segundo plano). Si se desean ver los logs en vivo, se quita el -d.
 
 ### 4. Verificar que todo funciona
-PHP/Apache: Abrir el navegador y acceder a http://localhost:8080. 
+PHP/Apache: Abrir el navegador y acceder a http://localhost:8090. 
 ```
 Se debe ver página de información de PHP (phpinfo()).
 ```
@@ -61,3 +61,8 @@ Base de datos: conectarse desde phpMyAdmin o desde su código PHP usando:
 ```
 
 ![localhost](capturas/myadmin.png)
+
+### 5. Carpeta sintaxis
+Sintaxis: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/
+
+![localhost](src\Sintaxis\sintaxis.png)
