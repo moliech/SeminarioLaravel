@@ -84,3 +84,7 @@ Abrir el navegador y acceder a http://localhost:8090/Sintaxis/formulario.php
 
 #### POST
 ![localhost](src/Sintaxis/post.png)
+
+### 9. Introduccion POO (clases y Objetos)
+Abrir el navegador y accedes a http://localhost:8090/POO/
+![localhost](src/POO/Catalogo.png)
