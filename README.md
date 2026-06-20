@@ -65,4 +65,4 @@ Base de datos: conectarse desde phpMyAdmin o desde su código PHP usando:
 ### 5. Carpeta sintaxis
 Sintaxis: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/
 
-![localhost](src\Sintaxis\sintaxis.png)
+![localhost](src/Sintaxis/sintaxis.png)
