@@ -62,7 +62,12 @@ Base de datos: conectarse desde phpMyAdmin o desde su código PHP usando:
 
 ![localhost](capturas/myadmin.png)
 
-### 5. Carpeta sintaxis
+### 5. Sintaxis
 Sintaxis: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/
 
 ![localhost](src/Sintaxis/sintaxis.png)
+
+### 6. Arrays
+Arrays: Abrir el navegador y acceder a http://localhost:8090/Arrays/
+
+![localhost](src/Arrays/array.png)
