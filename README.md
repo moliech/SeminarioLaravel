@@ -70,7 +70,7 @@ Sintaxis: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/Sintaxis
 ### 6. Arrays
 Arrays: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/array.php
 
-![localhost](src/Sintaxis/array.php)
+![localhost](src/Sintaxis/array.png)
 
 ### 7. Funciones
 Funciones: Abrir el navegador y acceder a http://localhost:8090/Sintaxis/funciones.php
