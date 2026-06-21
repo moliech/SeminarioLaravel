@@ -88,3 +88,12 @@ Abrir el navegador y acceder a http://localhost:8090/Sintaxis/formulario.php
 ### 9. Introduccion POO (clases y Objetos)
 Abrir el navegador y accedes a http://localhost:8090/POO/
 ![localhost](src/POO/Catalogo.png)
+
+### 10. BD en Workbench
+Se crea el diagrama en Workbench y se carga en phpMyAdmin
+![localhost](db/Diagrama.png)
+
+### 11. Conexion PDO con Singleton
+Abrir el navegador y acceder a http://localhost:8090/test_db.php
+![localhost](capturas/pdo.png)
+
