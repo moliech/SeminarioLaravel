@@ -116,4 +116,4 @@ Abrir el navegador y acceder a http://localhost:8090/
 
 #### Eliminar:
 
-![localhost](capturas/Crud/eliminar.png
+![localhost](capturas/Crud/eliminar.png)
