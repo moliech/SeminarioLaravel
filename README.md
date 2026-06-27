@@ -97,3 +97,6 @@ Se crea el diagrama en Workbench y se carga en phpMyAdmin
 Abrir el navegador y acceder a http://localhost:8090/test_db.php
 ![localhost](capturas/pdo.png)
 
+### 12. Creación del Modelo (M) con CRUD
+Abrir el navegador y acceder a http://localhost:8090/test_model.php
+![localhost](capturas/model.png)
