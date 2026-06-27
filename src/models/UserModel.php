@@ -39,4 +39,10 @@ class UserModel {
         $stmt = $this->db->prepare("DELETE FROM users WHERE id = ?");
         return $stmt->execute([$id]);
     }
+
+    //Actualizar usuario
+    public function update($id, $nombre, $email) {
+        $stmt = $this->db->prepare("UPDATE users SET nombre = ?, email = ? WHERE id = ?");
+        return $stmt->execute([$nombre, $email, $id]);
+    }
 }

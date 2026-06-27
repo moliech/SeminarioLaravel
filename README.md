@@ -100,3 +100,20 @@ Abrir el navegador y acceder a http://localhost:8090/test_db.php
 ### 12. Creación del Modelo (M) con CRUD
 Abrir el navegador y acceder a http://localhost:8090/test_model.php
 ![localhost](capturas/model.png)
+
+### 13. Modelo Vista - Controlador
+Abrir el navegador y acceder a http://localhost:8090/
+![localhost](capturas/Crud/Index.png)
+
+#### Crear:
+
+![localhost](capturas/Crud/Crear.png)
+![localhost](capturas/Crud/crear_exitoso.png)
+
+#### Editar:
+
+![localhost](capturas/Crud/editar.png)
+
+#### Eliminar:
+
+![localhost](capturas/Crud/eliminar.png
